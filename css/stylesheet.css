@@ -1,0 +1,264 @@
+.topper {
+  position: fixed;
+  display: flex;
+  z-index: 1000;
+  width: 100%;
+}
+.leftcolumn {
+  background-color: #118bc0;
+  width: 5%;
+  height: 60px;
+  float: left;
+  margin: 0 auto;
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.centercolumn {
+  position: relative;
+  background-color: #118bc0;
+  width: 80%;
+  margin: 0%;
+  float: left;
+  height: 60px;
+  padding-top: 20px;
+}
+.rightcolumn {
+  background-color: #0070a4;
+  width: 15%;
+  height: 50px;
+  float: right;
+  padding-top: 30px;
+  padding-right: 40px;
+}
+.loginfnt {
+  color: white;
+}
+
+
+.whitefnt1 {
+  text-align: left;
+  color: white;
+  font-size: 20px;
+  font-style: sans-serif;
+}
+.whitefnt {
+  text-align: left;
+  color: white;
+  font-size: 40px;
+  font-style: sans-serif;
+}
+.dkblu {
+  text-align: left;
+  color: #93c9e1;
+  font-size: 40px;
+  font-style: sans-serif;
+}
+
+h1 {
+  color: white;
+  font-family: sans-serif;
+}
+p {
+  color: white;
+  font-family: sans-serif;
+}
+.second {
+  display: block;
+  background-image: url("../images/crowdLG.jpg");
+  background-repeat: repeat;
+  padding: 0;
+  width: 100%;
+  margin: 0 auto;
+  padding-top: 200px;
+  height: 100%;
+  float: left;
+  position: relative;
+  overflow: hidden;
+}
+.secondinnerbox {
+  clear: both;
+  border: 10px #212934;
+  box-shadow: 0px 0px 0px 15px rgba(0,0,0,0.3);
+  padding: 10px;
+  width: 30%;
+  background-color: #1e8cbe;
+  margin: 0 auto;
+  margin-top: 200px;
+}
+.arrow {
+  display: block;
+  margin: 0 auto;
+  margin-top: 200px;
+  margin-bottom: 200px;
+}
+a.smalltext {
+  color: white;
+  size: 10px;
+}
+
+.mediumwhitebox1 {
+  position: relative;
+  display: flex;
+  width: 100%;
+  width: 100%;
+  display: flex;
+  margin-left: 40%;
+}
+.tablet {
+  float: left;
+  text-align: left;
+  padding-right: 15px;
+  margin-top: 10px;
+  margin-bottom: 40px;
+}
+img.align-center {
+  float: left;
+  margin: 0 auto;
+}
+h3 {color: white;
+}
+.mediumwhitebox2 {
+  position: relative;
+  display: flex;
+  width: 100%;
+  width: 100%;
+  display: flex;
+  margin-left: 40%;
+}
+.newspaper {
+  text-align: left;
+  margin-top: 10px;
+  margin-bottom: 40px;
+  padding-right: 15pt;
+}
+img.align-center2 {
+  float: left;
+  margin: 0 auto;
+}
+.mediumwhitebox3 {
+  position: relative;
+  display: flex;
+  width: 100%;
+  width: 100%;
+  display: flex;
+  margin-left: 40%;
+}
+.paintbrush {
+  text-align: left;
+  margin-top: 10px;
+  margin-bottom: 40px;
+  padding-right: 15pt;
+}
+img.align-center3 {
+  float: left;
+  margin: 0 auto;
+}
+
+
+.lightbluebox {
+  clear: both;
+  display: block;
+  background-color: #e8f0f5;
+  padding: 2.5%;
+  width: 95%;
+  position: relative;
+}
+.largedarkfonts {
+  font-size: 30px;
+  font-family: sans-serif;
+  color: #314156;
+  text-align: center;
+}
+
+
+.greybox {
+  display: inline-block;
+  width: 95%;
+  background-color: #d1d3d7;
+  padding: 2.5%;
+  position: relative;
+  margin: 0  auto;
+  margin-bottom: -7pt;
+  height: auto;
+}
+.whiteboxes {
+  display: block;
+  width: 96%;
+  height: 200px;
+  background-color: #ffffff;
+  float: left;
+  margin-bottom: 40px;
+  text-align: center;
+}
+.circle {
+    clear: both;
+    margin: 0 auto;
+    margin-top: 15px;
+    width:65px;
+    height:65px;
+    border-radius:50px;
+    font-size:20px;
+    color:#fff;
+    line-height:100px;
+    text-align:center;
+    background:#c7d2d8;
+}
+a.largebluefonts {
+  color: #547d98;
+	font-size:30px;
+  text-align: center;
+  font-family: sans-serif;
+  margin: 0 auto;
+}
+a.smalldarktext {
+  color: #4d4d4e;
+  font-size: 20px;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+
+.lightbluebox2 {
+  display: inline-block;
+  background-color: #e8f0f5;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  width: 100%;
+  margin: 0 auto;
+}
+.bottombluebutton {
+  display: block;
+  padding: 20px;
+  width: 20%;
+  background-color: #1e8cbe;
+  margin: 0 auto;
+}
+h2 {
+  color: black;
+  font-family: sans-serif;
+}
+
+
+.blackfooter {
+  display: inline-block;
+  background-color: black;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
+li {
+  display: inline-block;
+  margin: 0 auto;
+  padding: 15px;
+
+  color: white;
+  font-family: sans-serif;
+  font-size: 20px;
+  }
+ul {
+    text-decoration: none;
+    position:
+}
